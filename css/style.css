@@ -6,11 +6,13 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-color: teal ;
+  
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 100%;
+  color: black ;
 }
 
 .wrapper {
@@ -26,7 +28,7 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: black;
 }
 
 h1 {
@@ -46,8 +48,8 @@ h3 {
 }
 
 img {
-  max-width: 100%;
-  width: 100%;
+  max-width: 50%;
+  width: 50%;
   height: auto;
 }
 
